@@ -1,0 +1,10 @@
+*.md
+*.xlsx
+*.csv
+!sql_scripts/*.sql
+.git
+.gitignore
+*.dtsx
+*.sln
+*.suo
+
