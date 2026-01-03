@@ -48,7 +48,7 @@ Assignment4/
    - Server: `localhost` or `localhost,1433`
    - Authentication: SQL Server Authentication
    - Login: `sa`
-   - Password: `971412811`
+   - Password: `YourStrong@Pass123`
 
 ### Alternative: Traditional SQL Server Installation
 
